@@ -1,0 +1,3 @@
+/home/lzn/Code/Games/Assignment6/build/CMakeFiles/RayTracing.dir
+/home/lzn/Code/Games/Assignment6/build/CMakeFiles/edit_cache.dir
+/home/lzn/Code/Games/Assignment6/build/CMakeFiles/rebuild_cache.dir

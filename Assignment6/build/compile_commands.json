@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/lzn/Code/Games/Assignment6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/main.cpp.o -c /home/lzn/Code/Games/Assignment6/main.cpp",
+  "file": "/home/lzn/Code/Games/Assignment6/main.cpp"
+},
+{
+  "directory": "/home/lzn/Code/Games/Assignment6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c /home/lzn/Code/Games/Assignment6/Vector.cpp",
+  "file": "/home/lzn/Code/Games/Assignment6/Vector.cpp"
+},
+{
+  "directory": "/home/lzn/Code/Games/Assignment6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /home/lzn/Code/Games/Assignment6/Scene.cpp",
+  "file": "/home/lzn/Code/Games/Assignment6/Scene.cpp"
+},
+{
+  "directory": "/home/lzn/Code/Games/Assignment6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c /home/lzn/Code/Games/Assignment6/BVH.cpp",
+  "file": "/home/lzn/Code/Games/Assignment6/BVH.cpp"
+},
+{
+  "directory": "/home/lzn/Code/Games/Assignment6/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /home/lzn/Code/Games/Assignment6/Renderer.cpp",
+  "file": "/home/lzn/Code/Games/Assignment6/Renderer.cpp"
+}
+]
